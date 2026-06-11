@@ -1,0 +1,3 @@
+[submodule "my-clone"]
+	path = my-clone
+	url = https://github.com/JCodesMore/ai-website-cloner-template.git
